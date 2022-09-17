@@ -1,0 +1,95 @@
+[
+    {
+      "id": 1,
+      "name": "Ronny ",
+      "avatar": "https://randomuser.me/api/portraits/men/36.jpg",
+      "time": "Today 10:30 PM",
+      "stories": [
+        {
+            "story_id": 1,
+            "image": "https://image.freepik.com/free-vector/universe-mobile-wallpaper-with-planets_79603-600.jpg"
+            
+        },
+        {
+            "story_id": 2,
+            "image": "https://image.freepik.com/free-vector/mobile-wallpaper-with-fluid-shapes_79603-601.jpg"
+        }]
+    },
+    {
+      "id": 2,
+      "name": "Lesley Land",
+      "avatar":
+        "https://cdn.pixabay.com/photo/2019/11/03/20/11/portrait-4599553__340.jpg",
+      "time": "Today 07:00 PM",
+      "stories": [
+        {
+            "story_id": 1,
+            "image": "https://cdn.pixabay.com/photo/2014/07/08/12/36/bird-386725_960_720.jpg"
+            
+        }]
+    },
+    {
+      "id": 3,
+      "name": "Monre Mon",
+      "avatar":
+        "https://cdn.pixabay.com/photo/2018/03/12/12/32/woman-3219507_960_720.jpg",
+      "time": "Today 08:00 AM",
+      "stories": [
+        {
+            "story_id": 1,
+            "image": "https://cdn.pixabay.com/photo/2016/12/12/01/33/seagull-1900657_960_720.jpg"
+            
+        }]
+    },
+    {
+      "id": 4,
+      "name": "Maria",
+      "avatar":
+          "https://pbs.twimg.com/profile_images/1222140802475773952/61OmyINj.jpg ",
+      "time": "Today 05:00 AM",
+      "stories": [
+        {
+            "story_id": 1,
+            "image": "https://cdn.pixabay.com/photo/2020/06/21/18/47/lavender-5326246_960_720.jpg"
+            
+        }]
+    },
+    {
+      "id": 5,
+      "name": "Thot Leader",
+      "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+      "time": "Yesterday 02:40 PM",
+      "stories": [
+        {
+            "story_id": 1,
+            "image": "https://cdn.pixabay.com/photo/2018/06/18/02/03/woman-3481756_960_720.jpg"
+            
+        }]
+    },
+    {
+      "id": 6,
+      "name": "Lily Amin",
+      "avatar":
+        "https://cdn.pixabay.com/photo/2020/09/18/05/58/lights-5580916__340.jpg",
+      "time": "Yesterday 07:00 AM",
+      "stories": [
+        {
+            "story_id": 1,
+            "image": "https://cdn.pixabay.com/photo/2013/10/25/20/46/mosaic-200864_960_720.jpg"
+            
+        }]
+    },
+    {
+      "id": 7,
+      "name": "Carl ",
+      "avatar":
+        "https://cdn.pixabay.com/photo/2016/11/21/12/42/beard-1845166_1280.jpg",
+      "time": "Yesterday 03:40 AM",
+      "stories": [
+        {
+            "story_id": 1,
+            "image": "https://cdn.pixabay.com/photo/2015/08/13/20/06/flower-887443_960_720.jpg"
+            
+        }]
+    }
+    ]
